@@ -1,0 +1,55 @@
+body {
+     background-color: #e21f1f;
+     }
+h1{
+    color: #FFFFFF;
+    font-family: 'Tangerine', cursive;
+    text-align: center;
+    font-size: 45px;
+}
+p {
+    text-align: center; 
+}   
+h2{
+    font-family: 'Neuton', serif;
+    text-align: center; 
+    font-size: 30px; 
+}
+h3 {
+    font-family: 'Arapey', serif;
+    text-align: center; 
+    font-size: 25px; 
+}
+ul {
+    font-family: 'Coming Soon', cursive;
+    list-style-position: inside;
+    text-align: center;     
+}
+h4 {
+    font-family: 'Arapey', serif;
+    text-align: center; 
+    font-size: 25px; 
+}
+ol {
+    font-family: 'Coming Soon', cursive;
+    list-style-position: inside;
+        text-align: center; 
+}
+h5 {
+    font-family: 'Arapey', serif;
+    text-align: center; 
+    font-size: 25px; 
+}
+h6 {
+    font-family: 'Arapey', serif;
+    text-align: center; 
+    font-size: 25px; 
+}
+p {
+    color: #FFFFFF;
+    font-family: 'Tangerine', cursive;
+    text-align: center;
+    font-size: 40px;
+}
+
+    
